@@ -1,0 +1,12 @@
+battery:
+   battert_percent_min : 15
+  
+trottle:
+   max_current_consumption : 0.2 #amps
+  
+steering:
+    min_angle : 40
+    max_angle : 180
+    center_angle : 80
+    multiplication_factor : 2.7
+    
